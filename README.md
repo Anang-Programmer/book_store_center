@@ -30,7 +30,7 @@ Proyek ini dibangun sebagai pemenuhan Tugas Mata Kuliah **Pemrograman Web Dasar*
 Aplikasi ini dibangun menggunakan *stack* teknologi *native* tanpa framework yang berat demi memaksimalkan performa dasar dan efisiensi server:
 
 - **Bahasa Pemrograman Backend**: PHP Native (Support PHP 8+)
-- **Database**: MySQL / MariaDB
+- **Database**: MySQL
 - **Frontend & UI**: Bootstrap 5.3.2
 - **Custom Styling**: Native CSS3 (Dilengkapi custom arsitektur Dark Mode)
 - **Icons**: Bootstrap Icons
